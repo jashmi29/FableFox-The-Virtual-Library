@@ -30,6 +30,7 @@ cd FableFox
 npm install
 npm run dev
 ```
+Live demo: https://fable-fox-the-virtual-library.vercel.app/
 
 ## 👩‍💻 Author
 
